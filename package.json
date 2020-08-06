@@ -1,0 +1,29 @@
+{
+  "name": "discord-friends",
+  "version": "1.0.0",
+  "description": "discord-friends est un module NPM permettant d'ajouter des amis et d'être tenu au courant des évènements sélectionnés les concernant.",
+  "main": "discord-friends.js",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyfos/discord-friends.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "friend",
+    "friends",
+    "nyfos"
+  ],
+  "author": "Nyfos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyfos/discord-friends/issues"
+  },
+  "homepage": "https://github.com/Nyfos/discord-friends#readme"
+}
